@@ -1,6 +1,6 @@
 # Space-Cream
 
-Mais um desafio do programa Explorer da Rocketseat. Para o desenvolvimento deste projete utilizou-se o conceito de Mobile - First, onde primeiramente estruturamos para a versão Mobile 
+Mais um desafio do programa Explorer da Rocketseat. Para o desenvolvimento deste projeto utilizou-se o conceito de Mobile - First, onde primeiramente estruturamos para a versão Mobile 
 e depois avançamos na estrutura e estilização para a versão desktop.
 
 ###  :iphone: versão mobile
